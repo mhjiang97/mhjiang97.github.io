@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mhjiang97
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mhjiang97/Benchmarking_DS
+  - mhjiang97/RNASeqFlow
+  - mhjiang97/asp
+  - mhjiang97/platform
