@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Front Med":
+  url: https://www.springer.com/journal/11684
 
-"PhysRev":
-  url: https://journals.aps.org/
+"medRxiv":
+  url: https://www.medrxiv.org
+
+"Front Oncol":
+  url: https://www.frontiersin.org/journals/oncology
+
+"J Cell Mol Med":
+  url: https://onlinelibrary.wiley.com/journal/15824934
