@@ -1,1 +1,3 @@
-Browse [al-folio](https://github.com/alshedivat/al-folio) to see more details.
+# MJ Personal Webpage
+
+See also [al-folio](https://github.com/alshedivat/al-folio) for more details.
