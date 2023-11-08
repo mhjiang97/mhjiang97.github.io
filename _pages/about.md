@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at <a href='https://www.sbms.hku.hk'>SBMS, HKU</a>
+subtitle: PhD student @ <a href='https://www.sbms.hku.hk'>SBMS, HKU</a>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Room L1-34, Laboratory block, 21 Sassoon Rd, Pok Fo Lam</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---

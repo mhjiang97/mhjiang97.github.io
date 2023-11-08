@@ -1,12 +1,12 @@
 ---
 layout: distill
-title: First post
-description: Personal webpage is being built
-tags: distill formatting
-giscus_comments: true
-date: 2023-11-07
+title: About this webpage
+description: Why I am here
+giscus_comments: false
+date: 2023-11-08
 featured: true
 published: true
+giscus_comments: true
 tags: jotting
 categories: life
 
@@ -26,5 +26,4 @@ _styles: >
     font-size: 16px;
   }
 ---
-
-I am playing with this template for a while now.
+This is the place where I hope I can post some knowledge and information about my PhD study in Hong Kong on a regular basis. I am playing with this template for a while now, but it is preliminary (since I have few experience with HTML or CSS stuff) and under construction.
