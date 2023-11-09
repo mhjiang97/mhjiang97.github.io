@@ -414,6 +414,9 @@ footer.fixed-bottom {
     padding-top: 9px;
     padding-bottom: 8px;
   }
+  .mycontainer {
+    color: var(--global-footer-text-color);
+  }
 
   a {
     color: var(--global-footer-link-color);
