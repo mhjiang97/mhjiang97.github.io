@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mhjiang97.github.io/sitemap.xml
+Sitemap: https://mhjiang.bix.hk.com/sitemap.xml
