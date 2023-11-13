@@ -16,6 +16,7 @@
       {{ page._styles }}
     </style>
     {%- endif %}
+    {% include scripts/analytics.html %}
   </head>
 
   <d-front-matter>
@@ -112,7 +113,7 @@
     {%- include footer.html %}
 
     {% include scripts/bootstrap.html %}
-    {% include scripts/analytics.html %}
+    <!-- {% include scripts/analytics.html %} -->
     {% include scripts/progressBar.html %}
   </body>
 </html>
