@@ -9,9 +9,9 @@ profile:
   image: me_square.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Rm L3-38, Lab Block</p>
-    <p>21 Sassoon Rd</p>
-    <p>Pok Fo Lam, Hong Kong</p>
+    <p> Rm L3-38, Lab Block </p>
+    <p> 21 Sassoon Rd </p>
+    <p> Pok Fo Lam, Hong Kong </p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
