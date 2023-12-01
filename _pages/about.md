@@ -9,7 +9,7 @@ profile:
   image: me_square.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room L1-34, Lab Block</p>
+    <p>Rm L3-38, Lab Block</p>
     <p>21 Sassoon Rd</p>
     <p>Pok Fo Lam, Hong Kong</p>
 
