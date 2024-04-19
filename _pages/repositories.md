@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Bored repos
+description: Boring repos
 nav: false
 # nav_order:
 ---
