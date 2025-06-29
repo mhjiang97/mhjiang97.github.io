@@ -1,4 +1,3 @@
-# Miss Hongxin Yin
-The cutest girl is my girlfriend.
+# Hongxin
 
-This photo was taken when we spent our holiday in Korea.
+This photo was taken during our holiday trip to Korea.
