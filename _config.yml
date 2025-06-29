@@ -8,19 +8,19 @@ middle_name:
 last_name: Jiang
 chinese_last_name: 姜
 chinese_first_name: 明昊
-email: jiang01@icloud.com
+email: minghao.jiang01@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Minghao's personal website.
-footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text:
+  > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: bioinformatics, computational bioloby, leukemogenesis
-
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👨‍💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👨‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mhjiang97.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -323,8 +323,8 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 4  # leave blank to always show all authors
-more_authors_animation_delay: 5  # more authors are revealed on click using animation; smaller delay means faster animation
+max_author_limit: 4 # leave blank to always show all authors
+more_authors_animation_delay: 5 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
