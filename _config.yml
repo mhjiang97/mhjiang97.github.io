@@ -8,7 +8,6 @@ middle_name:
 last_name: Jiang
 chinese_last_name: 姜
 chinese_first_name: 明昊
-email: minghao.jiang01@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Minghao's personal website.
 footer_text:
@@ -87,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Stay healthy
 blog_nav_title: Blog
-blog_description: Personal life and study updates
+blog_description: Personal insights on life and academic journey
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
