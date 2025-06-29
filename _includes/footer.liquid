@@ -1,0 +1,36 @@
+<script src="{{ '/assets/js/puv.js' }}"></script>
+
+{% capture footer_contents %}
+  &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+  {%- if site.impressum_path -%}
+  <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+  {%- endif -%}
+  {%- if site.last_updated -%}
+  Last updated: {{ "now" | date: '%B %d, %Y' }}.
+  {%- endif -%}
+  <span id="busuanzi_container_site_pv" class="mycontainer mt-0">
+    <span id="busuanzi_container_site_uv" class="mycontainer mt-0">
+      Site pv | uv: 
+      <span id="busuanzi_value_site_pv" class="mycontainer mt-0"></span> | 
+      <span id="busuanzi_value_site_uv" class="mycontainer mt-0"></span>
+    </span>
+  </span>
+{% endcapture %}
+
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">
+      {{ footer_contents }}
+    </div>
+  </footer>
+{% else %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    {% if site.newsletter.enabled %}
+      {% include newsletter.liquid %}
+    {% endif %}
+
+    <div class="container">
+      {{ footer_contents }}
+    </div>
+  </footer>
+{% endif %}

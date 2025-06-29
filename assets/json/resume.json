@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Minghao Jiang",
+    "position": "Ph.D. candidate",
+    "image": "",
+    "email": "minghao[DOT]jiang01[AT]gmail[DOT]com",
+    // "phone": "(852) 59338104",
+    // "url": "https://mhjiang97.github.io",
+    // "summary": "A first-year Ph.D. student at the School of Biomedical Sciences, The University of Hong Kong",
+    "location": {
+      "address": "21 Sassoon Rd, Pok Fu Lam",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Hong Kong SRA"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "minghao97jiang",
+        "url": "https://twitter.com/minghao97jiang"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Hong Kong, Hong Kong SRA",
+      "url": "https://www.hku.hk",
+      "area": "Bioinformatics",
+      "studyType": "Ph.D.",
+      "startDate": "2023-09",
+      "endDate": "now",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Shanghai Jiao Tong University, Shanghai, China",
+      "url": "https://en.sjtu.edu.cn",
+      "area": "Biology",
+      "studyType": "M.Sc.",
+      "startDate": "2019-09",
+      "endDate": "2022-06",
+      "score": "3.9 / 4.0",
+      "courses": []
+    },
+    {
+      "institution": "Harbin Medical University, Harbin, Heilongjiang Province, China",
+      "url": "https://www.hrbmu.edu.cn/english/",
+      "area": "Bioinformatics",
+      "studyType": "B.Sc.",
+      "startDate": "2014-09",
+      "endDate": "2029-07",
+      "score": "81.4 / 100.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "First-class scholarship",
+      "date": "2022",
+      "awarder": "Shanghai Jiao Tong University School of Medicine",
+      "summary": ""
+    },
+    {
+      "title": "First-class scholarship",
+      "date": "2021",
+      "awarder": "Shanghai Jiao Tong University School of Medicine",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding graduate",
+      "date": "2019",
+      "awarder": "Harbin Medical University",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding volunteer",
+      "date": "2018",
+      "awarder": "The Belt and Road China-Russia Medical University Alliance",
+      "summary": ""
+    },
+    {
+      "title": "Excellent student leader",
+      "date": "2016",
+      "awarder": "Harbin Medical University",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "average"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Basketball", "keywords": "a good shooter"
+    },
+    {
+      "name": "Video games", "keywords": "FPS"
+    }
+  ],
+  "references": [],
+  "projects": []
+}
