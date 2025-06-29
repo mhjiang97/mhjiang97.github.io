@@ -103,10 +103,12 @@
   ],
   "interests": [
     {
-      "name": "Basketball", "keywords": "a good shooter"
+      "name": "Basketball",
+      "keywords": "a good shooter"
     },
     {
-      "name": "Video games", "keywords": "FPS"
+      "name": "Video games",
+      "keywords": "FPS"
     }
   ],
   "references": [],
