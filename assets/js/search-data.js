@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/people/";
               },
-            },{id: "post-diet",
+            },{id: "post-postgraduate-studies-at-sih",
+        
+          title: "Postgraduate studies at SIH",
+        
+        description: "Making right choices is crucial for your future career",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/postgraduate/";
+          
+        },
+      },{id: "post-diet",
         
           title: "Diet",
         
