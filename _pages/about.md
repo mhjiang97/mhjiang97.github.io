@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle:
+subtitle: <a href="https://www.16personalities.com/intp-personality">INTP</a> | Dog lover
 
 profile:
   align: right
@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student at [School of Biomedical Sciences](https://www.sbms.hku.hk), [Li Ka Shing Faculty of medicine](https://www.med.hku.hk), [The University of Hong Kong](https://www.hku.hk) majoring in Bioinformatics. My research currently centers on two main topics: first, identifying novel structural variants to classify patients with B-cell acute lymphoblastic leukemia (B-ALL) using long-read sequencing; second, exploiting the mechanisms of APOBEC mutational signatures in _ETV6::RUNX1_/-like B-ALL. My work is supervised by [Professor Jason Wong](https://www.sbms.hku.hk/staff/jason-wing-hon-wong).
+I am a second-year Ph.D. student in Bioinformatics at the [School of Biomedical Sciences](https://www.sbms.hku.hk) (SBMS), [Li Ka Shing Faculty of Medicine](https://www.med.hku.hk), [The University of Hong Kong](https://www.hku.hk) (HKU). My research focuses on two main areas: identifying novel structural variants to classify patients with B-cell acute lymphoblastic leukemia (B-ALL) using long-read sequencing, and investigating the mechanisms of distinct mutational signatures in B-ALL subtypes. I am supervised by [Professor Jason Wing Hon Wong](https://www.sbms.hku.hk/staff/jason-wing-hon-wong).
 
-Prior to joining HKU, I obtained my Bachelor of Science degree in Bioinformatics from [Harbin Medical University](https://www.hrbmu.edu.cn/english/) in 2019. Subsequently, I pursued my Master of Science degree in Biology at [Shanghai Institute of Hematology](https://www.nature.com/nature-index/institution-outputs/china/shanghai-institute-of-hematology-at-ruijin-hospital-sjtu/513906bb34d6b65e6a000158), [Ruijin Hospital](https://www.rjh.com.cn), [School of Medicine](https://www.shsmu.edu.cn/english/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) in 2022, doing research about deciphering the mechanism of leukemogenesis across various subtypes (_e.g._, _IGH::DUX4_ and _MEF2D_ fusions). Following that, I worked as a technician for 10 months at [Shanghai Institute of Immunology](https://www.shsmu.edu.cn/sii/English.htm), where my responsibilities included sequencing platform construction.
+I earned my Bachelor of Science degree in Bioinformatics from [Harbin Medical University](https://www.hrbmu.edu.cn/english/) (HMU) in 2019, followed by a Master of Science degree in Biology from the [Shanghai Institute of Hematology](https://www.nature.com/nature-index/institution-outputs/china/shanghai-institute-of-hematology-at-ruijin-hospital-sjtu/513906bb34d6b65e6a000158) (SIH) at [Ruijin Hospital](https://www.rjh.com.cn) affiliated with [School of Medicine](https://www.shsmu.edu.cn/english/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) (SHSMU) in 2022. During my Master's studies, I investigated the mechanisms of leukemogenesis across various subtypes, including _IGH::DUX4_ and _MEF2D_ fusions. After graduation, I worked for 10 months as a technician at the [Shanghai Institute of Immunology](https://www.shsmu.edu.cn/sii/English.htm) (SII), where I was involved in sequencing platform construction.
