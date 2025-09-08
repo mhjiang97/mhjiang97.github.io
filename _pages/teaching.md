@@ -32,6 +32,7 @@ nav: false
 | 13-Nov-2024 | KKLG107       | Lecture/Workshop       | Cancer genomics                                                                       |
 | 20-Nov-2024 | KKLG107       | Lecture/Workshop       | Cancer transcriptomics                                                                |
 | 27-Nov-2024 | KKLG107       | Lecture/Workshop       | Epigenetics + Quiz on week 9-11                                                       |
+| 09-Sep-2025 | TC            | Lecture/Workshop       | BIOF1001: Introduction to Biomedical Data Science                                     |
 | 12-Sep-2025 | LG-02         | Practical (Physiology) | Respiration in man                                                                    |
 | 30-Sep-2025 | Techmezz      | Practical (Anatomy)    | Thorax VR practical (P3)                                                              |
 | 21-Oct-2025 | MDL1-3        | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination (With AR/VR) (Gps 22-32)   |
@@ -51,5 +52,6 @@ nav: false
 | LG-19         | LG-19, Biomedical Sciences Teaching Lab, G/F Lab Block, 21 Sassoon Rd.                     |
 | KKLG107       | KKLG107, LG1/F K.K. Leung Building                                                         |
 | LT1           | Cheung Kung Hai Lecture Theatre 1,  William M.W. Mong Block, 21 Sassoon Rd.                |
+| TC            | Telemedicine Centre, 2/F, William M.W. Mong Block, 21 Sassoon Rd.                          |
 | LG-02         | LG-02, 02A Biomedical Sciences Teaching Laboratory 1, G/F Lab Block, 21 Sassoon Rd.        |
 | Techmezz      | Mezzanine Floor, Yu Chun Keung Medical Library, LG1, William MW Mong Block, 21 Sassoon Rd. |
