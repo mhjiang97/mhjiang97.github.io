@@ -52,7 +52,7 @@ nav: false
 | Loke Yew Hall       | Loke Yew Hall                                                                              |
 | LG-19               | LG-19, Biomedical Sciences Teaching Lab, G/F Lab Block, 21 Sassoon Rd.                     |
 | KKLG107             | KKLG107, LG1/F K.K. Leung Building                                                         |
-| LT1                 | Cheung Kung Hai Lecture Theatre 1,  William M.W. Mong Block, 21 Sassoon Rd.                |
+| LT1                 | Cheung Kung Hai Lecture Theatre 1, William M.W. Mong Block, 21 Sassoon Rd.                 |
 | TC                  | Telemedicine Centre, 2/F, William M.W. Mong Block, 21 Sassoon Rd.                          |
 | LG-02               | LG-02, 02A Biomedical Sciences Teaching Laboratory 1, G/F Lab Block, 21 Sassoon Rd.        |
 | Techmezz            | Mezzanine Floor, Yu Chun Keung Medical Library, LG1, William MW Mong Block, 21 Sassoon Rd. |
