@@ -42,6 +42,7 @@ nav: false
 | 31-Oct-2025 | MDL1-3              | Practical (Physiology) | P2 - Demonstration on EMG, VR Practical on muscle physiology, Human reflex                       |
 | 07-Nov-2025 | MDL1-3              | Practical (Physiology) | P2 - Demonstration on EMG, VR Practical on muscle physiology, Human reflex                       |
 | 13-Nov-2025 | MDL1                | Practical (Anatomy)    | Abdomen and pelvis VR practical                                                                  |
+| 10-Dec-2025 | MB217               | Examination            | Examination: Perspectives in Biochemistry                                                        |
 | 09-Jan-2026 | MDL1                | Practical (Anatomy)    | Anatomy Practical AV/VR Session                                                                  |
 
 ## Venues
@@ -57,3 +58,4 @@ nav: false
 | LG-02               | LG-02, 02A Biomedical Sciences Teaching Laboratory 1, G/F Lab Block, 21 Sassoon Rd.        |
 | Techmezz            | Mezzanine Floor, Yu Chun Keung Medical Library, LG1, William MW Mong Block, 21 Sassoon Rd. |
 | Telemedicine Centre | Mrs Chen Yang Foo Oi Telemedicine Centre, 2/F, William M.W. Mong Block, 21 Sassoon Rd.     |
+| MB217               | MB217, 2/F, Main Building                                                                  |
