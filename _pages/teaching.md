@@ -44,6 +44,7 @@ nav: false
 | 13-Nov-2025 | MDL1                | Practical (Anatomy)    | Abdomen and pelvis VR practical                                                                  |
 | 10-Dec-2025 | MB217               | Examination            | Examination: Perspectives in Biochemistry                                                        |
 | 09-Jan-2026 | MDL1                | Practical (Anatomy)    | Anatomy Practical AV/VR Session                                                                  |
+| 24-Mar-2026 | Techmezz            | Practical (Anatomy)    | Head and Neck Practical 6: VR Clinically Oriented Dissection                                     |
 
 ## Venues
 
