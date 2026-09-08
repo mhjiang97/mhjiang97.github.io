@@ -47,6 +47,12 @@ nav: false
 | 24-Mar-2026 | Techmezz                  | Practical (Anatomy)    | Head and Neck Practical 6: VR Clinically Oriented Dissection          |
 | 19-May-2026 | CPD-LG.07-10 and LG.60-62 | Examination            | MBBS MBBS First and Second Summative Assessments                      |
 | 27-May-2026 | CPD-LG.07-10 and LG.60-62 | Examination            | MBBS MBBS First and Second Summative Assessments                      |
+| 20-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
+| 21-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
+| 22-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
+| 23-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
+| 02-Nov-2026 | MDL1-3                    | Practical (Physiology) | Demonstration on EMG, VR Practical on muscle physiology, Human reflex |
+| 04-Nov-2026 | MDL1-3                    | Practical (Physiology) | Demonstration on EMG, VR Practical on muscle physiology, Human reflex |
 
 ## Venues
 
