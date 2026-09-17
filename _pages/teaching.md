@@ -47,6 +47,9 @@ nav: false
 | 24-Mar-2026 | Techmezz                  | Practical (Anatomy)    | Head and Neck Practical 6: VR Clinically Oriented Dissection          |
 | 19-May-2026 | CPD-LG.07-10 and LG.60-62 | Examination            | MBBS MBBS First and Second Summative Assessments                      |
 | 27-May-2026 | CPD-LG.07-10 and LG.60-62 | Examination            | MBBS MBBS First and Second Summative Assessments                      |
+| 04-Aug-2026 | LG-02                     | BBMS-Summer Programme  | SBMS SUmmer Academy 2026 - ECG/EMG Practical                          |
+| 06-Aug-2026 | Techmezz                  | BBMS-Summer Programme  | SBMS SUmmer Academy 2026 - VR human anatomy                           |
+| 09-Oct-2026 | LE7                       | Test                   | Quiz/Midterm test                                                     |
 | 20-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
 | 21-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
 | 22-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
@@ -69,3 +72,4 @@ nav: false
 | Telemedicine Centre | Mrs Chen Yang Foo Oi Telemedicine Centre, 2/F, William M.W. Mong Block, 21 Sassoon Rd.     |
 | MB217               | MB217, 2/F, Main Building                                                                  |
 | CPD-LG              | LG/F, Lee Shau Kee Lecture Centre, Centennial Campus                                       |
+| LE7                 | LE7, LG2/F, Library Extension Building                                                     |
