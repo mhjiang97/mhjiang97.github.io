@@ -56,6 +56,7 @@ nav: false
 | 23-Oct-2026 | MDL1-3                    | Practical (Physiology) | Human reflexes, electrophysiology and clinical examination            |
 | 02-Nov-2026 | MDL1-3                    | Practical (Physiology) | Demonstration on EMG, VR Practical on muscle physiology, Human reflex |
 | 04-Nov-2026 | MDL1-3                    | Practical (Physiology) | Demonstration on EMG, VR Practical on muscle physiology, Human reflex |
+| 12-Dec-2026 | LE9                       | Examination            | Essential Molecular Biology                                           |
 
 ## Venues
 
@@ -73,3 +74,4 @@ nav: false
 | MB217               | MB217, 2/F, Main Building                                                                  |
 | CPD-LG              | LG/F, Lee Shau Kee Lecture Centre, Centennial Campus                                       |
 | LE7                 | LE7, LG2/F, Library Extension Building                                                     |
+| LE9                 | LE9, LG2/F, Library Extension Building                                                     |
