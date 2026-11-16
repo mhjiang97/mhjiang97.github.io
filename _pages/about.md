@@ -14,7 +14,7 @@ profile:
     <p> Pok Fo Lam, Hong Kong </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 giscus_comments: true # al_comments giscus thread, configured under `giscus:` in _config.yml
 
 announcements:
