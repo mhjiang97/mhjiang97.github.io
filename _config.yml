@@ -134,9 +134,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Stay healthy
+blog_name: Notes
 blog_nav_title: Blog
-blog_description: Personal insights on life and academic journey
+blog_description: Occasional writing on research and life
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
