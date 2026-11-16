@@ -72,7 +72,7 @@ layout: default
     <!--
       {% if page.social %}
         <div class="social">
-          <div class="contact-icons">{% include social.liquid %}</div>
+          <div class="contact-icons">{% social_links %}</div>
 
           <div class="contact-note">{{ site.contact_note }}</div>
         </div>
@@ -80,7 +80,11 @@ layout: default
     -->
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
+      {% if site.plugins contains 'al_newsletter' %}
+        {% include plugins/al_newsletter_form_center_margin.liquid %}
+      {% else %}
+        {% include newsletter.liquid center=true %}
+      {% endif %}
     {% endif %}
   </article>
   <hr style="border-top:0.5px solid grey">
