@@ -4,10 +4,10 @@ var t, e;
     o = [],
     a = !1;
   function r() {
-    (a = !0), document.removeEventListener("DOMContentLoaded", r), o.forEach((t) => t.call(document)), (o = []);
+    ((a = !0), document.removeEventListener("DOMContentLoaded", r), o.forEach((t) => t.call(document)), (o = []));
   }
   const s = (t = 2) => `https://events.vercount.one/api/v${t}/log`;
-  (t = {
+  ((t = {
     fetch: async function (t) {
       const o = s(2),
         a = s(1);
@@ -21,7 +21,7 @@ var t, e;
               a = o ? o.getParameter(o.RENDERER) : "",
               r = [t, e, n, navigator.userAgent, a, new Date().getTimezoneOffset()].join("|");
             let s = 0;
-            for (let t = 0; t < r.length; t++) (s = (s << 5) - s + r.charCodeAt(t)), (s &= s);
+            for (let t = 0; t < r.length; t++) ((s = (s << 5) - s + r.charCodeAt(t)), (s &= s));
             return Math.abs(s).toString(36);
           })(),
           s = window.location.href;
@@ -38,13 +38,13 @@ var t, e;
           const s = ((t) => {
             if (t && t.status) {
               if ("success" === t.status && t.data) return t.data;
-              if ("error" === t.status && t.data) return console.warn(`API error: ${t.message}`, t), t.data;
-              if ("error" === t.status) return console.warn(`API error: ${t.message}`, t), { site_uv: 0, site_pv: 0, page_pv: 0 };
+              if ("error" === t.status && t.data) return (console.warn(`API error: ${t.message}`, t), t.data);
+              if ("error" === t.status) return (console.warn(`API error: ${t.message}`, t), { site_uv: 0, site_pv: 0, page_pv: 0 });
             }
             return t || { site_uv: 0, site_pv: 0, page_pv: 0 };
           })(await a.json());
           n(() => {
-            t(s), localStorage.setItem("visitorCountData", JSON.stringify(s)), e.showAll();
+            (t(s), localStorage.setItem("visitorCountData", JSON.stringify(s)), e.showAll());
           });
         } catch (o) {
           console.warn("Error with v2 API, falling back to v1:", o);
@@ -56,14 +56,14 @@ var t, e;
               }),
               s = await o.json();
             n(() => {
-              t(s), localStorage.setItem("visitorCountData", JSON.stringify(s)), e.showAll();
+              (t(s), localStorage.setItem("visitorCountData", JSON.stringify(s)), e.showAll());
             });
           } catch (o) {
             console.warn("CORS error with token header, retrying without custom header:", o);
             const s = await fetch(a, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ url: i, token: r }) }),
               c = await s.json();
             n(() => {
-              t(c), localStorage.setItem("visitorCountData", JSON.stringify(c)), e.showAll();
+              (t(c), localStorage.setItem("visitorCountData", JSON.stringify(c)), e.showAll());
             });
           }
         }
@@ -73,12 +73,12 @@ var t, e;
         if (a)
           try {
             const o = JSON.parse(a);
-            n(() => {
-              t(o), e.showAll();
+            (n(() => {
+              (t(o), e.showAll());
             }),
-              console.log("Using cached visitor count data");
+              console.log("Using cached visitor count data"));
           } catch (t) {
-            console.error("Error parsing cached data:", t), e.hideAll();
+            (console.error("Error parsing cached data:", t), e.hideAll());
           }
         else e.hideAll();
       }
@@ -117,5 +117,5 @@ var t, e;
         : (o.push(t), document.addEventListener("DOMContentLoaded", r));
     })(() => {
       t.fetch(e.updateText.bind(e));
-    });
+    }));
 })();
