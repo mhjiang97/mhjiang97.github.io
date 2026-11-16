@@ -206,8 +206,3 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
-
-// Vercount page-view counters in the footer (see _includes/footer.liquid).
-.mycontainer {
-  color: var(--global-footer-text-color);
-}

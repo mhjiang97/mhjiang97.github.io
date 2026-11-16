@@ -1,5 +1,5 @@
 nbconvert
 pyyaml
-rendercv[full]
+rendercv[full]==2.6 # 2.7+ rejects the label/summary/address fields al-folio's CV page uses
 scholarly
 bibtexparser<2 # scholarly imports bibtexparser.bibdatabase, removed in 2.x

@@ -1,0 +1,95 @@
+cv:
+  name: Minghao Jiang
+  label: Ph.D. candidate
+  email: minghao.jiang01@gmail.com
+  location: Hong Kong
+  website: https://mhjiang97.github.io
+
+  social_networks:
+    - network: GitHub
+      username: mhjiang97
+    - network: LinkedIn
+      username: minghao-jiang-a10b52247
+    - network: ORCID
+      username: 0000-0003-3309-9185
+    - network: X
+      username: minghaojiang01
+
+  address:
+    street: 21 Sassoon Rd, Pok Fu Lam
+    city: Hong Kong
+    region: Hong Kong SAR
+    countryCode: HK
+
+  sections:
+    Education:
+      - institution: The University of Hong Kong
+        location: Hong Kong SAR
+        url: https://www.hku.hk
+        area: Bioinformatics
+        studyType: Ph.D.
+        start_date: 2023-09
+        end_date: present
+
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://en.sjtu.edu.cn
+        area: Biology
+        studyType: M.Sc.
+        start_date: 2019-09
+        end_date: 2022-06
+        score: 3.9 / 4.0
+
+      - institution: Harbin Medical University
+        location: Harbin, China
+        url: https://www.hrbmu.edu.cn/english/
+        area: Bioinformatics
+        studyType: B.Sc.
+        start_date: 2014-09
+        end_date: 2019-07
+        score: 81.4 / 100.0
+
+    Awards:
+      - title: First-class scholarship
+        authors:
+          - Shanghai Jiao Tong University School of Medicine
+        date: 2022
+        awarder: Shanghai Jiao Tong University School of Medicine
+
+      - title: First-class scholarship
+        authors:
+          - Shanghai Jiao Tong University School of Medicine
+        date: 2021
+        awarder: Shanghai Jiao Tong University School of Medicine
+
+      - title: Outstanding graduate
+        authors:
+          - Harbin Medical University
+        date: 2019
+        awarder: Harbin Medical University
+
+      - title: Outstanding volunteer
+        authors:
+          - The Belt and Road China-Russia Medical University Alliance
+        date: 2018
+        awarder: The Belt and Road China-Russia Medical University Alliance
+
+      - title: Excellent student leader
+        authors:
+          - Harbin Medical University
+        date: 2016
+        awarder: Harbin Medical University
+
+    Languages:
+      - name: Mandarin
+        summary: Native speaker
+
+      - name: English
+        summary: Average
+
+    Interests:
+      - name: Basketball
+        keywords: Shooter
+
+      - name: Video games
+        keywords: FPS
